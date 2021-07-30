@@ -138,7 +138,6 @@ ov/
 *.docx
 *.pdf
 *.pptx
-EDA.ipynb
 tmp.ipynb
 paper_replicate_v1.ipynb
 Bs-month-draft.ipynb
